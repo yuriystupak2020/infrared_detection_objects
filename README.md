@@ -9,3 +9,5 @@ Before art filters:
 
 After art filters:
 ![](art_filter1.png)
+
+For squizee fotos and videos and open threads cand find help there: https://github.com/yuriystupak2020/AugmentationInfrared1
